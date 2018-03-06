@@ -7,16 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		041E9CD62048A00C00B1B122 /* TU_Break.txt in Resources */ = {isa = PBXBuildFile; fileRef = 041E9CD52048A00C00B1B122 /* TU_Break.txt */; };
 		042251A32028EACC004F1D54 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042251A22028EACC004F1D54 /* AppDelegate.swift */; };
 		042251A82028EACC004F1D54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042251A62028EACC004F1D54 /* Main.storyboard */; };
 		042251AA2028EACC004F1D54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042251A92028EACC004F1D54 /* Assets.xcassets */; };
 		042251AD2028EACC004F1D54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042251AB2028EACC004F1D54 /* LaunchScreen.storyboard */; };
 		042251B52028EBC1004F1D54 /* BreakMenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042251B42028EBC1004F1D54 /* BreakMenuTableViewController.swift */; };
+		043F8CE7204EF85A00B035E7 /* TU_Break.txt in Resources */ = {isa = PBXBuildFile; fileRef = 043F8CE6204EF85A00B035E7 /* TU_Break.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		041E9CD52048A00C00B1B122 /* TU_Break.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = TU_Break.txt; path = ../../../TUTextFiles/TU_Break.txt; sourceTree = "<group>"; };
 		0422519F2028EACC004F1D54 /* MenuAppTestSwift3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MenuAppTestSwift3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		042251A22028EACC004F1D54 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		042251A72028EACC004F1D54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -24,6 +23,7 @@
 		042251AC2028EACC004F1D54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		042251AE2028EACC004F1D54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		042251B42028EBC1004F1D54 /* BreakMenuTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BreakMenuTableViewController.swift; sourceTree = "<group>"; };
+		043F8CE6204EF85A00B035E7 /* TU_Break.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TU_Break.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 		042251A12028EACC004F1D54 /* MenuAppTestSwift3 */ = {
 			isa = PBXGroup;
 			children = (
-				041E9CD52048A00C00B1B122 /* TU_Break.txt */,
+				043F8CE6204EF85A00B035E7 /* TU_Break.txt */,
 				042251A22028EACC004F1D54 /* AppDelegate.swift */,
 				042251B42028EBC1004F1D54 /* BreakMenuTableViewController.swift */,
 				042251A62028EACC004F1D54 /* Main.storyboard */,
@@ -129,7 +129,7 @@
 				042251AD2028EACC004F1D54 /* LaunchScreen.storyboard in Resources */,
 				042251AA2028EACC004F1D54 /* Assets.xcassets in Resources */,
 				042251A82028EACC004F1D54 /* Main.storyboard in Resources */,
-				041E9CD62048A00C00B1B122 /* TU_Break.txt in Resources */,
+				043F8CE7204EF85A00B035E7 /* TU_Break.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
