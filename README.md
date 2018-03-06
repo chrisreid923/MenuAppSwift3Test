@@ -1,0 +1,1 @@
+This code uses a bundled text file to read and display the Trinity University Menu for the week. The items are divided by day, station, and food. The data for the text file is taken from the campus dining menu using python.
